@@ -12,3 +12,13 @@ Foundational Component
 Task Distribution
 Scheduling
 Input/Output
+
+1. Spark SQL
+Data Frames - Tables 
+
+2. Spark Streaming
+Streaming Analytics
+Micro Batches
+Lambda Architecture
+
+
