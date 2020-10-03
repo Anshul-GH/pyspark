@@ -4,3 +4,11 @@ Components of Spark:
 3. MLlib
 4. GraphX
 5. SparkR
+
+
+
+0. Spark Core
+Foundational Component
+Task Distribution
+Scheduling
+Input/Output
