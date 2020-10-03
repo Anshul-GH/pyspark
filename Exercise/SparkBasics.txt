@@ -1,0 +1,6 @@
+Components of Spark:
+1. Spark SQL
+2. Spark Streaming
+3. MLlib
+4. GraphX
+5. SparkR
